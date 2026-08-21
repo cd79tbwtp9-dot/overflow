@@ -1,0 +1,10 @@
+print("welcome")
+x=input("please enter your name")
+print("hello")
+print("5*5=?")
+res = int(input())
+
+if res == 25:
+  print("right")
+else :
+  print("wrong")

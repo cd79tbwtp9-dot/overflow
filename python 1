@@ -1,10 +1,17 @@
 print("welcome")
 x=input("please enter your name")
-print("hello")
+print("\n" "hello" , x )
 print("5*5=?")
 res = int(input())
 
 if res == 25:
   print("right")
+  print("knock knock")
+  
+  ans=input()
+  
+  if ans == ("who is there"):
+    print("king el soft")
 else :
   print("wrong")
+  print ("Redo it")
